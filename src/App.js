@@ -1,13 +1,13 @@
-import React from "react";
 import "./App.css";
-import travelblog from "./components/TravelBlog";
+import TravelBlog from "./components/TravelBlog/TravelBlog";
 //importing my data
 import TravelData from "./TravelData";
+import Hero from "./components/Hero/Hero1";
 
 function App() {
   const info = TravelData.map((item) => {
     return (
-      <travelblog
+      <TravelBlog
         key={item.id}
         heading={item.placeHeading}
         img1={item.placeImg1}
@@ -20,7 +20,10 @@ function App() {
 
   return (
     <div className="App">
-      <section className="container">{info}</section>
+      <section className="container">
+        <Hero />
+        {info}
+      </section>
     </div>
   );
 }

@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+}
+.background-image {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../../Assets/HeroSection-bg-image.jpg);
+  background-position: center;
+  position: relative;
+}
+.Heading {
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+.SubHeading {
+  position: absolute;
+  font-size: 20px;
+  top: 60%;
+  left: 40%;
+  text-align: center;
+  background-color: black;
+  opacity: 50%;
+  color: white;
+}
