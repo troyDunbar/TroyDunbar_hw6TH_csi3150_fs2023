@@ -1,5 +1,7 @@
 import React from "react";
-import "./TravelBlog.css";
+
+import "../TravelBlog/travelblog";
+
 const TravelBlog = (props) => {
   return (
     <div className="container-wrapper">

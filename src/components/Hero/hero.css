@@ -7,7 +7,7 @@ body {
 .background-image {
   width: 100vw;
   height: 100vh;
-  background-image: url(../../Assets/HeroSection-bg-image.jpg);
+  background-image: url(../../assets/HeroSection-bg-image.jpg);
   background-position: center;
   position: relative;
 }

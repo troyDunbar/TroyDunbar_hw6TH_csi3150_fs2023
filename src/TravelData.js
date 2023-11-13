@@ -1,14 +1,14 @@
-import LondonImage1 from "./Assets/LondonImage1.jpg";
-import LondonImage2 from "./Assets/LondonImage2.jpg";
-import LondonImage3 from "./Assets/LondonImage3.jpg";
+import LondonImage1 from "./assets/LondonImage1.jpg";
+import LondonImage2 from "./assets/LondonImage2.jpg";
+import LondonImage3 from "./assets/LondonImage3.jpg";
 
-import SFImage1 from "./Assets/SFImage1.jpg";
-import SFImage2 from "./Assets/SFImage2.jpg";
-import SFImage3 from "./Assets/SFImage3.jpg";
+import SFImage1 from "./assets/SFImage1.jpg";
+import SFImage2 from "./assets/SFImage2.jpg";
+import SFImage3 from "./assets/SFImage3.jpg";
 
-import TokyoImage1 from "./Assets/TokyoImage1.jpg";
-import TokyoImage2 from "./Assets/TokyoImage2.jpg";
-import TokyoImage3 from "./Assets/TokyoImage3.jpg";
+import TokyoImage1 from "./assets/TokyoImage1.jpg";
+import TokyoImage2 from "./assets/TokyoImage2.jpg";
+import TokyoImage3 from "./assets/TokyoImage3.jpg";
 
 const TravelData = [
   {
