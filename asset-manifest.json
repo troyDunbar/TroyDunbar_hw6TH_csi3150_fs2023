@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TroyDunbar_hw6TH_csi3150_fs2023/static/css/main.5f98e95a.css",
+    "main.js": "/TroyDunbar_hw6TH_csi3150_fs2023/static/js/main.67b53db8.js",
+    "static/media/TokyoImage1.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/TokyoImage1.b77bb781a0fd3b8f0ab8.jpg",
+    "static/media/TokyoImage2.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/TokyoImage2.efb57304a6e499b19222.jpg",
+    "static/media/LondonImage2.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/LondonImage2.0276591d79ccba34b62d.jpg",
+    "static/media/SFImage3.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/SFImage3.35444fe9c7b78ddeae19.jpg",
+    "static/media/LondonImage1.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/LondonImage1.310f7f5e513b696a4072.jpg",
+    "static/media/SFImage2.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/SFImage2.5f1a59398102bdef88cd.jpg",
+    "static/media/SFImage1.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/SFImage1.efed5b95541e5b12c176.jpg",
+    "static/media/HeroSection-bg-image.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/HeroSection-bg-image.e25beac9cbf4f163ed7d.jpg",
+    "static/media/LondonImage3.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/LondonImage3.0c0967d6eabc4e6caece.jpg",
+    "static/media/TokyoImage3.jpg": "/TroyDunbar_hw6TH_csi3150_fs2023/static/media/TokyoImage3.6b1c397cf0430242c296.jpg",
+    "index.html": "/TroyDunbar_hw6TH_csi3150_fs2023/index.html",
+    "main.5f98e95a.css.map": "/TroyDunbar_hw6TH_csi3150_fs2023/static/css/main.5f98e95a.css.map",
+    "main.67b53db8.js.map": "/TroyDunbar_hw6TH_csi3150_fs2023/static/js/main.67b53db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f98e95a.css",
+    "static/js/main.67b53db8.js"
+  ]
+}
